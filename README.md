@@ -1,6 +1,6 @@
 SlimStarter
 ===========
-
+test
 SlimStarter is a bootstrap application built with Slim Framework in MVC architecture,
 with Laravel's Eloquent as database provider (Model) and Twig as template engine (View).
 
